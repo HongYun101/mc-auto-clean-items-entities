@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "服务器自动清理+商店系统 :)"  ,
+        "description": "描述：自动清理+ ----作者Obsidian红云 :o",
+        "uuid": "66aab60e-0759-4f1c-ad46-7ea24fdd58d7",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            20,
+            10
+        ]
+    }
+    ,
+    "modules": [
+      {
+        "type": "data",
+        "uuid": "d623738f-acdb-4819-af24-b8487423d43e",
+        "version": [
+            1,
+            0,
+            0
+        ]
+      }  
+    ]
+}
