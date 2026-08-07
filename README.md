@@ -57,6 +57,6 @@ mc-behavior-pack/
 
 ## 使用方式
 
-1. 将本文件夹打包为 zip
+1. 将本文件夹打包为 mcaddon
 2. 在基岩版世界中:设置 → 行为包 → 导入
-3. 启用后运行 `/function ZDQL/load` 初始化(或世界设置中自动加载)
+3. 启用后运行 `/function Zstart` 初始化(或世界设置中自动加载)
