@@ -1,4 +1,4 @@
-# mc-behavior-pack — Minecraft 基岩版行为包
+# mc-auto-clean-items-entities — Minecraft 基岩版行为包
 
 Minecraft Bedrock(基岩版)行为包,核心功能是**自动清理系统**:每 15 分钟自动清除地图上的危险生物、投射物、掉落物和经验球,清理前 15 秒对全服玩家倒计时提示。
 
